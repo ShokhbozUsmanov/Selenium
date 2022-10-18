@@ -1,5 +1,4 @@
 package day11;
-
 import com.github.javafaker.Faker;
 import my_utily.Driver;
 import org.openqa.selenium.By;
@@ -8,20 +7,15 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import java.util.Locale;
-
 public class JavaFakerPractice {
     WebDriver driver;
     @BeforeMethod
     public void setUpMethod() {
-        // set up chrome and create WebDriver instance
         driver = Driver.getDriver();
     }
-
     @Test
     public void registrationForm() {
-
         driver.get("https://practice.cydeo.com/registration_form");
         WebElement first = driver.findElement(By.xpath("//input[@name='firstname']"));
         Faker ff = new Faker();
@@ -48,15 +42,5 @@ public class JavaFakerPractice {
         java.click();
         WebElement sign = driver.findElement(By.xpath("//button"));
         sign.click();
-
-
-
-
-
-
-
-
-
-
     }
-    }
+}
