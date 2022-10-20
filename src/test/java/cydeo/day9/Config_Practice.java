@@ -1,6 +1,6 @@
 package cydeo.day9;
 
-import cydeo.base.TestBase;
+import base.TestBase;
 import org.testng.annotations.Test;
 
 public class Config_Practice extends TestBase {

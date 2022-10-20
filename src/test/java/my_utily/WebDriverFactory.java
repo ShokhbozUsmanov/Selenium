@@ -1,4 +1,4 @@
-package cydeo.my_utily;
+package my_utily;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

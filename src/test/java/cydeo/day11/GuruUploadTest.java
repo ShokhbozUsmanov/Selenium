@@ -1,7 +1,7 @@
 package cydeo.day11;
 
-import cydeo.my_utily.BrowserUtils;
-import cydeo.my_utily.Driver;
+import my_utily.BrowserUtils;
+import my_utily.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

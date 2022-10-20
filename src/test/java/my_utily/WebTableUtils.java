@@ -1,4 +1,4 @@
-package cydeo.my_utily;
+package my_utily;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

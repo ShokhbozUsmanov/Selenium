@@ -1,6 +1,6 @@
 package cydeo.day5;
 
-import cydeo.my_utily.WebDriverFactory;
+import my_utily.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;

@@ -1,6 +1,6 @@
-package cydeo.base;
+package base;
 
-import cydeo.my_utily.WebDriverFactory;
+import my_utily.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;

@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-import cydeo.my_utily.WebDriverFactory;
+import my_utily.WebDriverFactory;
 
 public class Alert_Practice {
     WebDriver driver;

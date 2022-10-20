@@ -1,4 +1,4 @@
-package cydeo.my_utily;
+package my_utily;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

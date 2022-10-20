@@ -1,6 +1,6 @@
 package cydeo.day12;
 
-import cydeo.my_utily.Driver;
+import my_utily.Driver;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.BeforeMethod;

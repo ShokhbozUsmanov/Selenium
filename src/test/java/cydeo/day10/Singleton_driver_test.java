@@ -1,5 +1,5 @@
 package cydeo.day10;
-import cydeo.my_utily.WebDriverFactory;
+import my_utily.WebDriverFactory;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.BeforeMethod;

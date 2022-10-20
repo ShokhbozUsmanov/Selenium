@@ -1,8 +1,8 @@
 package cydeo.day9;
 
-import cydeo.base.TestBase;
-import cydeo.my_utily.BrowserUtils;
-import cydeo.my_utily.CRM_Utillies;
+import base.TestBase;
+import my_utily.BrowserUtils;
+import my_utily.CRM_Utillies;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
